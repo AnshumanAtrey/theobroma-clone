@@ -350,6 +350,10 @@ h6 {
 
 #last-section {
   width: 32%;
+  font-family: "Inter";
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
 }
 
 .sorry {
